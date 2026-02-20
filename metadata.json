@@ -1,0 +1,5 @@
+{
+  "name": "Bharat-POS",
+  "description": "A cloud-based mobile-first POS system for Indian retail and pharmacy shops featuring billing, inventory management, khata (credit ledger), and daily cash reconciliation.",
+  "requestFramePermissions": []
+}
